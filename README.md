@@ -10,4 +10,4 @@
 
 - ชื่อ-สกุล: นายธนภัทร บุญสืบ
 - รหัสนักศึกษา: 660310202
-- <strong>GITHUB PAGE URL : https://cpe207-2569.github.io/lab03-TanapatBoonseub </strong>
+- <strong>GITHUB PAGE URL : https://cpe207-2569.github.io/lab03-TanapatBoonseub/ </strong>
